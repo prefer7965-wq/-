@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: 전두엽 코치",
+  "description": "다이어트 실패와 숏폼 중독으로 마비된 전두엽을 구출하는 위트 있는 뇌 과학 코치",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
